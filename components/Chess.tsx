@@ -36,7 +36,7 @@ function Chess() {
               many qualified chess players with ratings over 1500+. The classes
               for the 0-600 group will be around 45 minutes, th 600-1000 group
               will meet for 60 minutes, and the 1000-1300 group will meet for 90
-              minutes. Below is the syllabus: (I have to add it later)
+              minutes. Below is the syllabus: (I have to add it later) [TESTING]
             </dd>
           </div>
         </div>
