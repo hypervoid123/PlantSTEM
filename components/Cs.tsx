@@ -23,7 +23,7 @@ function Cs() {
               <p className="ml-16 text-lg font-medium leading-6 text-gray-900">
                 Computer Science -{" "}
                 <div className="font-bold inline">
-                  THIS PAGE IS UNDER DEVELOPMENT
+                  THIS PAGE IS UNDER DEVELOPMENT(TEST)
                 </div>
               </p>
             </dt>
