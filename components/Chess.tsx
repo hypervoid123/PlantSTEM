@@ -24,7 +24,7 @@ function Chess() {
               <p className="ml-16 text-lg font-medium leading-6 text-gray-900">
                 Chess -{" "}
                 <div className="font-bold inline">
-                  THIS PAGE IS UNDER DEVELOPMENT
+                  THIS PAGE IS UNDER DEVELOPMENTs
                 </div>
               </p>
             </dt>
